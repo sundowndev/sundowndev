@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi, I'm Raphaël, a Software Engineer from France.
 
-<!--
-**sundowndev/sundowndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/sundowndev)
+[![Website](https://img.shields.io/badge/-Website-orange?style=flat&logo=Website&logoColor=white)](https://crvx.fr/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sundowndev)
+<br />
+<br />
 
-Here are some ideas to get you started:
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/sundowndev/.github/master/.resources/git-header.svg" />
+  
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently working on [PhoneInfoga](), [Castle](), [Dreamvo]();
+- 🌱 I’m currently learning [Golang](https://golang.org/) 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: raphael@crvx.fr;
+
+![Sundowndev's github stats](https://github-readme-stats.vercel.app/api?username=sundowndev&show_icons=true&hide_border=true)
