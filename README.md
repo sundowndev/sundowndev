@@ -8,10 +8,10 @@
 **Talking about personal stuff:**
 
 - 👨🏻‍💻 I’m currently working on [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga), [dorkgen](https://github.com/sundowndev/dorkgen), [castle](https://github.com/sundowndev/castle), [Dreamvo](https://github.com/dreamvo)
-- 🌱 I’m currently learning [Golang](https://golang.org/)
-- 💬 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning [Golang](https://github.com/sundowndev?tab=repositories&q=&type=&language=go)
+- 💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help
 - 📫 How to reach me: raphael(at)crvx.fr
-- **Programming**: Python (Django, Flask), JS (Vue, Node.js), Go, PHP (Symfony), Shell
+- **Programming**: Python (Django, Flask), JS (TypeScript, Vue, Node), Go, PHP (Symfony)
 - **Tech**: gRPC, Redis, SQL/TSQL, REST, Reverse Engineering (Android static/dynamic analysis)
 - **Languages**: Native french, english (TOEIC 795)
 
