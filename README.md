@@ -7,12 +7,10 @@
 
 **Talking about personal stuff:**
 
-- 👨🏻‍💻 I’m currently working on [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga), [dorkgen](https://github.com/sundowndev/dorkgen)<!--, [castle](https://github.com/sundowndev/castle)-->, [Dreamvo](https://github.com/dreamvo)
+- 👨🏻‍💻 I’m currently working on [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga), [dorkgen](https://github.com/sundowndev/dorkgen)<!--, [castle](https://github.com/sundowndev/castle)-->, [Dreamvo](https://github.com/dreamvo) on my free time
 - 🌱 I’m currently learning [Golang](https://github.com/sundowndev?tab=repositories&q=&type=&language=go)
 - 💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help
 - 📫 How to reach me: raphael(at)crvx.fr
 - **Programming**: Python (Django, Flask), JS (TypeScript, Vue, Node), Go, PHP (Symfony)
 - **Tech**: gRPC, Redis, SQL/TSQL, REST, Reverse Engineering (Android static/dynamic analysis)
 - **Languages**: Native french, english (TOEIC 795)
-
-![Sundowndev's github stats](https://github-readme-stats.vercel.app/api?username=sundowndev&show_icons=true&hide_border=true)
