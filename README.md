@@ -9,7 +9,7 @@
 
 - 👨🏻‍💻 I’m currently working on [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga), [dorkgen](https://github.com/sundowndev/dorkgen)<!--, [castle](https://github.com/sundowndev/castle)-->, [Dreamvo](https://github.com/dreamvo) on my free time
 - :book: I have a bachelor degree in computer science
-- 🌱 I’m currently learning [Golang](https://github.com/sundowndev?tab=repositories&q=&type=&language=go) and Kubernetes
+- 🌱 I’m currently learning [Golang](https://github.com/sundowndev?tab=repositories&q=&type=&language=go) and Gitops with Kubernetes
 - 💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help
 - **Programming**: Python (Django, Flask), JS (TypeScript, Vue, Node), Go, PHP (Symfony)
 - **Tech**: gRPC, Redis, SQL/TSQL, REST, Reverse Engineering (Android static/dynamic analysis), Docker (Swarm, Traefik)
