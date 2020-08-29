@@ -5,10 +5,10 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/sundowndev/)](https://twitter.com/sundowndev)
 [![Medium](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@SundownDEV)](https://medium.com/@SundownDEV)
 
-- 👨🏻‍💻 I’m currently working on [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga), [dorkgen](https://github.com/sundowndev/dorkgen), [castle](https://github.com/sundowndev/castle), [Dreamvo](https://github.com/dreamvo) on my free time
+- 👨🏻‍💻 I’m currently working on [phoneinfoga](https://github.com/sundowndev/PhoneInfoga), [dorkgen](https://github.com/sundowndev/dorkgen), [castle](https://github.com/sundowndev/castle), [dreamvo](https://github.com/dreamvo) on my free time
 - :book: I have a bachelor degree in computer science
 - 🌱 I’m currently learning [Golang](https://github.com/sundowndev?tab=repositories&q=&type=&language=go) and Gitops with Kubernetes
 - 💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help
-- **Programming**: Python, JS, Go, PHP
-- **Tech**: gRPC, Redis, SQL/TSQL, REST, Reverse Engineering (Android static/dynamic analysis), Docker (Swarm, Traefik)
+- **Programming**: Python (*Django, Flask*), JS (*Typescript, Vue*), Go, PHP (*Symfony, Laravel*)
+- **Tech**: gRPC, KV stores (*Redis*), SGBD (*MySQL, PostgreSQL, Mongodb*), API (*REST, OpenAPI, Swagger*), Reverse Engineering (*Scraping, Android static & dynamic analysis*), Docker (*Swarm, Traefik, Kubernetes, Helm*)
 - **Languages**: Native french, english (TOEIC 795)
