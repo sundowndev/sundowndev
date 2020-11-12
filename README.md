@@ -9,5 +9,5 @@
 - 🌱 I’m currently learning [Golang](https://github.com/sundowndev?tab=repositories&q=&type=&language=go) and GitOps with Kubernetes
 - 💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help
 - **Programming**: Python (*Django, Flask*), JS (*Typescript, Vue*), Go, PHP (*Symfony, Laravel*)
-- **Tech**: gRPC, KV stores (*Redis*, *etcd*), SGBD (*MySQL, PostgreSQL, Mongodb*), API (*REST, OpenAPI, Swagger*), Reverse Engineering (*Scraping, Android static & dynamic analysis*), Docker (*Swarm, Traefik, Kubernetes, Helm*)
+- **Tech**: gRPC, KV stores (*Redis*, *etcd*), DBMS (*MySQL, PostgreSQL, Mongodb*), API (*REST, OpenAPI, Swagger*), Reverse Engineering (*Scraping, Android static & dynamic analysis*), Docker (*Kubernetes, Helm, Traefik*), Infrastructure (*DigitalOcean, Pulumi, Terraform*)
 - **Languages**: Native french, english (TOEIC 795)
