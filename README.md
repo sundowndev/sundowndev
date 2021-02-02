@@ -7,7 +7,5 @@
 
 - :book: I have a bachelor degree in software engineering
 - 🌱 I’m currently learning [Golang](https://github.com/sundowndev?tab=repositories&q=&type=&language=go) and GitOps with Kubernetes
-- **Programming**: Python (*Django, Flask*), JS (*Typescript, Vue*, *Nuxt*), Go, PHP (*Symfony, Laravel*)
-- **Tech**: gRPC, KV stores (*Redis*, *etcd*), DBMS (*MySQL, PostgreSQL, Mongodb*), Message brokers (*RabbitMQ*), API (*REST, OpenAPI, Swagger*), Reverse Engineering (*Scraping, Android static & dynamic analysis*), Docker (*Kubernetes, Helm, Traefik*), Infrastructure (*DigitalOcean, Pulumi, Terraform*)
-- **Languages**: Native french, english (TOEIC 795)
+- **Languages**: Native french, fuent english
 <!-- - 💬 [Ask me about anything](https://github.com/sundowndev/ama), I am happy to help -->
