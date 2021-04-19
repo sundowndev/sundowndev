@@ -5,4 +5,3 @@
 - Twitter: https://twitter.com/sundowndev
 - Web: https://crvx.fr/
 - Blog: https://medium.com/@SundownDEV
-- Mail: raphael@crvx.fr
