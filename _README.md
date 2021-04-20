@@ -3,11 +3,11 @@
 ### My Recent Projects
 
 
+- [sundowndev/goreleaser-template](https://github.com/sundowndev/goreleaser-template) - 
 - [sundowndev/status](https://github.com/sundowndev/status) - :chart_with_upwards_trend: Uptime monitor and status page for my infrastructure, powered by @upptime 
 - [sundowndev/ama](https://github.com/sundowndev/ama) - Ask me anything!
 - [sundowndev/castle](https://github.com/sundowndev/castle) - Access token management library for Go. Designed for APIs that need a rate and time limited access control feature.
 - [sundowndev/serve](https://github.com/sundowndev/serve) - Simple, production ready, HTTP server for static file serving
-- [sundowndev/go-search](https://github.com/sundowndev/go-search) - Full text-search CLI search engine for your file system, backed by Redis (school project)
 
 ### Recent Releases I Worked On
 
