@@ -13,7 +13,7 @@
 
 
 - [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) ([v0.8.0](https://github.com/cloudskiff/driftctl/releases/tag/v0.8.0), 1 week ago) - Detect, track and alert on infrastructure drift
-- [sundowndev/website](https://github.com/sundowndev/website) ([v1.0.1](https://github.com/sundowndev/website/releases/tag/v1.0.1), 4 weeks ago) - 2019 version of my personal website
+- [sundowndev/website](https://github.com/sundowndev/website) ([v1.0.1](https://github.com/sundowndev/website/releases/tag/v1.0.1), 1 month ago) - 2019 version of my personal website
 - [sundowndev/dorkgen](https://github.com/sundowndev/dorkgen) ([v1.3.1](https://github.com/sundowndev/dorkgen/releases/tag/v1.3.1), 2 months ago) - Go package to create type-safe dork queries for search engines such as Google, Yahoo, DuckDuckGo &amp; Bing
 - [nuxt/http](https://github.com/nuxt/http) ([v0.6.1](https://github.com/nuxt/http/releases/tag/v0.6.1), 5 months ago) - Universal HTTP Module for Nuxt.js
 - [sundowndev/castle](https://github.com/sundowndev/castle) ([v0.0.1](https://github.com/sundowndev/castle/releases/tag/v0.0.1), 9 months ago) - Access token management library for Go. Designed for APIs that need a rate and time limited access control feature.
