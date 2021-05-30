@@ -20,7 +20,6 @@
 - [sundowndev/castle](https://github.com/sundowndev/castle) ([v0.0.1](https://github.com/sundowndev/castle/releases/tag/v0.0.1), 9 months ago) - Access token management library for Go. Designed for APIs that need a rate and time limited access control feature.
 - [sundowndev/serve](https://github.com/sundowndev/serve) ([v1.1.0](https://github.com/sundowndev/serve/releases/tag/v1.1.0), 1 year ago) - Simple, production ready, HTTP server for static file serving
 - [sundowndev/underbase](https://github.com/sundowndev/underbase) ([v2.2.14](https://github.com/sundowndev/underbase/releases/tag/v2.2.14), 1 year ago) - MongoDB schema and data migration library based on semver
-- [sundowndev/leafeon](https://github.com/sundowndev/leafeon) ([v2.1.20](https://github.com/sundowndev/leafeon/releases/tag/v2.1.20), 2 years ago) - A dependency-free Javascript routing library that fits perfectly with client-side templating
 
 ### Contact Info
 
