@@ -12,7 +12,7 @@
 ### Recent Releases I Worked On
 
 
-- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) ([v0.9.0](https://github.com/cloudskiff/driftctl/releases/tag/v0.9.0), 6 days ago) - Detect, track and alert on infrastructure drift
+- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) ([v0.9.0](https://github.com/cloudskiff/driftctl/releases/tag/v0.9.0), 1 week ago) - Detect, track and alert on infrastructure drift
 - [sundowndev/goreleaser-template](https://github.com/sundowndev/goreleaser-template) ([v0.2.3](https://github.com/sundowndev/goreleaser-template/releases/tag/v0.2.3), 1 week ago) - 
 - [sundowndev/website](https://github.com/sundowndev/website) ([v1.0.1](https://github.com/sundowndev/website/releases/tag/v1.0.1), 1 month ago) - 2019 version of my personal website
 - [sundowndev/dorkgen](https://github.com/sundowndev/dorkgen) ([v1.3.1](https://github.com/sundowndev/dorkgen/releases/tag/v1.3.1), 2 months ago) - Go package to create type-safe dork queries for search engines such as Google, Yahoo, DuckDuckGo &amp; Bing
