@@ -12,7 +12,7 @@
 ### Recent Releases I Worked On
 
 
-- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) ([v0.11.1](https://github.com/cloudskiff/driftctl/releases/tag/v0.11.1), today) - Detect, track and alert on infrastructure drift
+- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) ([v0.11.1](https://github.com/cloudskiff/driftctl/releases/tag/v0.11.1), 1 day ago) - Detect, track and alert on infrastructure drift
 - [cloudskiff/helm](https://github.com/cloudskiff/helm) ([driftctl-0.1.0](https://github.com/cloudskiff/helm/releases/tag/driftctl-0.1.0), 2 weeks ago) - Helm repo for different charts related to Cloudskiff which can be installed on Kubernetes (WIP)
 - [sundowndev/goreleaser-template](https://github.com/sundowndev/goreleaser-template) ([v0.2.3](https://github.com/sundowndev/goreleaser-template/releases/tag/v0.2.3), 1 month ago) - 
 - [sundowndev/website](https://github.com/sundowndev/website) ([v1.0.1](https://github.com/sundowndev/website/releases/tag/v1.0.1), 2 months ago) - 2019 version of my personal website
