@@ -21,6 +21,7 @@
 - [sundowndev/castle](https://github.com/sundowndev/castle) ([v0.0.1](https://github.com/sundowndev/castle/releases/tag/v0.0.1), 10 months ago) - Access token management library for Go. Designed for APIs that need a rate and time limited access control feature.
 - [sundowndev/phoneinfoga-google-driver](https://github.com/sundowndev/phoneinfoga-google-driver) ([v0.0.1](https://github.com/sundowndev/phoneinfoga-google-driver/releases/tag/v0.0.1), 1 year ago) - WIP - Chromium plugin for PhoneInfoga&#39;s Google Search scanner
 - [sundowndev/underbase](https://github.com/sundowndev/underbase) ([v2.2.14](https://github.com/sundowndev/underbase/releases/tag/v2.2.14), 1 year ago) - MongoDB schema and data migration library based on semver
+- [sundowndev/covermyass](https://github.com/sundowndev/covermyass) ([v1.2.2](https://github.com/sundowndev/covermyass/releases/tag/v1.2.2), 2 years ago) - Shell script to cover your tracks on UNIX systems. Designed for pen testing &#34;covering tracks&#34; phase, before exiting the infected server. Or, permanently disable system logs for post-exploitation.
 
 ### Contact Info
 
