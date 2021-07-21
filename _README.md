@@ -13,7 +13,7 @@
 
 
 - [sundowndev/goreleaser-template](https://github.com/sundowndev/goreleaser-template) ([v0.3.4](https://github.com/sundowndev/goreleaser-template/releases/tag/v0.3.4), 1 week ago) - Repository template for shipping a Go binary with Go Releaser
-- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) ([v0.12.0](https://github.com/cloudskiff/driftctl/releases/tag/v0.12.0), 1 week ago) - Detect, track and alert on infrastructure drift
+- [cloudskiff/driftctl](https://github.com/cloudskiff/driftctl) ([v0.12.0](https://github.com/cloudskiff/driftctl/releases/tag/v0.12.0), 2 weeks ago) - Detect, track and alert on infrastructure drift
 - [sundowndev/website](https://github.com/sundowndev/website) ([v1.0.1](https://github.com/sundowndev/website/releases/tag/v1.0.1), 3 months ago) - 2019 version of my personal website
 - [sundowndev/dorkgen](https://github.com/sundowndev/dorkgen) ([v1.3.1](https://github.com/sundowndev/dorkgen/releases/tag/v1.3.1), 4 months ago) - Go package to create type-safe dork queries for search engines such as Google, Yahoo, DuckDuckGo &amp; Bing
 - [nuxt/http](https://github.com/nuxt/http) ([v0.6.1](https://github.com/nuxt/http/releases/tag/v0.6.1), 7 months ago) - Universal HTTP Module for Nuxt.js
